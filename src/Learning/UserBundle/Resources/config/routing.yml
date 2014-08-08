@@ -1,0 +1,3 @@
+learning_user_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: LearningUserBundle:Default:index }
