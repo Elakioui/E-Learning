@@ -57,8 +57,10 @@ doctrine:
         # path:     "%database_path%"
 
     orm:
-        auto_generate_proxy_classes: "%kernel.debug%"
         auto_mapping: true
+        auto_generate_proxy_classes: "%kernel.debug%"
+        resolve_target_entities:
+            Symfony\Component\Security\Core\User\UserInterface: Learning\UserBundle\Entity\User
 
 # Swiftmailer Configuration
 swiftmailer:
