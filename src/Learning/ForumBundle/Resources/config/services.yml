@@ -1,0 +1,7 @@
+parameters:
+#    learning_forum.example.class: Learning\ForumBundle\Example
+
+services:
+#    learning_forum.example:
+#        class: %learning_forum.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -20,8 +20,7 @@ class AppKernel extends Kernel
             new Learning\UserBundle\LearningUserBundle(),
             new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
             new CCDNForum\ForumBundle\CCDNForumForumBundle(),
-
-
+            new Learning\ForumBundle\LearningForumBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

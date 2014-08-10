@@ -1,0 +1,6 @@
+learning_forum_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: LearningForumBundle:Default:index }
+
+CCDNForumForumBundle:
+    resource: "@CCDNForumForumBundle/Resources/config/routing.yml"

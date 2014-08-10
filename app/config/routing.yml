@@ -1,6 +1,11 @@
+learning_forum:
+    resource: "@LearningForumBundle/Resources/config/routing.yml"
+    prefix:   /
+
 learning_user:
     resource: "@LearningUserBundle/Resources/config/routing.yml"
     prefix:   /
+
 fos_user_security:
     resource: "@FOSUserBundle/Resources/config/routing/security.xml"
 
@@ -20,5 +25,4 @@ fos_user_change_password:
     resource: "@FOSUserBundle/Resources/config/routing/change_password.xml"
     prefix: /profile
 
-CCDNForumForumBundle:
-    resource: "@CCDNForumForumBundle/Resources/config/routing.yml"
+
