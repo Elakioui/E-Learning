@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bd8d31c-33b3-4f6d-9924-66877bb61107" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/DependencyInjection/LearningForumExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/LearningForumBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/doc/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/translations/messages.fr.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Board/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Board/delete.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Board/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Board/list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Category/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Category/delete.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Category/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Category/list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Forum/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Forum/delete.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Forum/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Admin/Forum/list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/Sidebar/Partial/user_boards.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/Sidebar/Partial/user_subscriptions.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/Sidebar/admin_forum.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/Sidebar/user_forum.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/Sidebar/user_subscriptions.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/SubTitle/sub_title_default.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/crumbs.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/flashes.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Common/Layout/footer.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Moderator/Post/unlock.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Moderator/Topic/change_board.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/Moderator/Topic/delete.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Board/Partial/item_topic_list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Board/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Category/Partial/item_board.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Category/Partial/item_category.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Category/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Category/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/Partial/body_content.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/Partial/item_post.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/Partial/item_post_body.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/Partial/item_post_head.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/Partial/post_preview.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/delete.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Post/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Subscription/Partial/item_topic_list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Subscription/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/Partial/stat_mods.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/Partial/stat_vitals.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/Partial/topic_actions.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/Partial/transcript.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/create.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/reply.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/User/Topic/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Learning/ForumBundle/Tests/Controller/DefaultControllerTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
     </list>
     <ignored path="E-Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -835,7 +774,11 @@
       <created>1407600690692</created>
       <updated>1407600690692</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Authentification commit 1">
+      <created>1407675773396</created>
+      <updated>1407675773396</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
